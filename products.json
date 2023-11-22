@@ -1,0 +1,102 @@
+[
+	{
+		"title": "Hamburguesa 1",
+		"description": "Hamburguesa con bacon",
+		"price": 5000,
+		"thumbnail": "🍔",
+		"code": "abc120",
+		"stock": 15,
+		"id": 1,
+		"category": "alimentos"
+	},
+	{
+		"title": "Hamburguesa 2",
+		"description": "Hamburguesa con cheddar y bacon",
+		"price": 6000,
+		"thumbnail": "🍔",
+		"code": "abc121",
+		"stock": 20,
+		"id": 2,
+		"category": "alimentos"
+	},
+	{
+		"title": "Hamburguesa 3",
+		"description": "Hamburguesa con cebolla caramelizada",
+		"price": 3000,
+		"thumbnail": "🍔",
+		"code": "abc122",
+		"stock": 5,
+		"id": 3,
+		"category": "alimentos"
+	},
+	{
+		"title": "Hamburguesa 4",
+		"description": "Hamburguesa con queso azul",
+		"price": 5000,
+		"thumbnail": "🍔",
+		"code": "abc123",
+		"stock": 15,
+		"id": 4,
+		"category": "alimentos"
+	},
+	{
+		"title": "Hamburguesa 5",
+		"description": "Hamburguesa con champignones",
+		"price": 6000,
+		"thumbnail": "🍔",
+		"code": "abc124",
+		"stock": 20,
+		"id": 5,
+		"category": "alimentos"
+	},
+	{
+		"title": "Hamburguesa 6",
+		"description": "Hamburguesa con rucula, tomate y parmesano",
+		"price": 3000,
+		"thumbnail": "🍔",
+		"code": "abc125",
+		"stock": 5,
+		"id": 6,
+		"category": "alimentos"
+	},
+	{
+		"title": "Hamburguesa 7",
+		"description": "Hamburguesa con chedar, bacon y cebolla caramelizada",
+		"price": 5000,
+		"thumbnail": "🍔",
+		"code": "abc126",
+		"stock": 15,
+		"id": 7,
+		"category": "alimentos"
+	},
+	{
+		"title": "Hamburguesa 8",
+		"description": "Hamburguesa doble con chedar, bacon y salsa tasty",
+		"price": 6000,
+		"thumbnail": "🍔",
+		"code": "abc127",
+		"stock": 20,
+		"id": 8,
+		"category": "alimentos"
+	},
+	{
+		"title": "Hamburguesa 9",
+		"description": "Hamburguesa doble con cebolla caramelizada",
+		"price": 3000,
+		"thumbnail": "🍔",
+		"code": "abc128",
+		"stock": 5,
+		"id": 9,
+		"category": "alimentos"
+	},
+	{
+		"title": "Hamburguesa 10",
+		"description": "Hamburguesa triple con chedarx3, bacon, cebolla caramelizada y salsa tasty",
+		"price": 3000,
+		"thumbnail": "🍔",
+		"code": "abc129",
+		"stock": 5,
+		"id": 10,
+		"category": "alimentos"
+	}
+]
