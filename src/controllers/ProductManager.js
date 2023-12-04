@@ -116,4 +116,5 @@ class Product {
     }
   }
 
-export { ProductManager };
+export {ProductManager};
+export { Product };
