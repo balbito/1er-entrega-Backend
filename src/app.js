@@ -29,7 +29,7 @@ app.use("/", viewsRouter);
 
 app.use(express.static(`${__dirname}/public`));
 
-const manager = new ProductManager("./src/products.json");
+const manager = new ProductManager("./src/models/products.json");
 const productos = manager.getProducts();
 
 socketServer.on("connection", (socketClient) => {

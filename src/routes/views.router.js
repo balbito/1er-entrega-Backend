@@ -4,7 +4,7 @@ import { Product} from "../controllers/ProductManager.js";
 
 const router = Router();
 
-let manager = new ProductManager('./src/products.json');
+let manager = new ProductManager('./src/models/products.json');
 let productos = manager.getProducts();
 
 router.get("/", (req, res) => {

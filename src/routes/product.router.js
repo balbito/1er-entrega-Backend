@@ -3,7 +3,7 @@ import { ProductManager } from "../controllers/ProductManager.js";
 
 const router = Router();
 
-const manager = new ProductManager("./products.json");
+const manager = new ProductManager("./src/models/products.json");
 
 router.get("/", async (req, res) => {
     try {
